@@ -317,5 +317,3 @@ If you have specific questions or if you have noticed any error in this guide, f
 
 Thank you all for your support and motivation!
 
-Eres muy amable y extrovertida. Me gustaría conocer gente como tú.
-Hablemos a través de otro sitio. Telegram: @mecury19
