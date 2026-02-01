@@ -1,3 +1,8 @@
+
+
+
+
+
 # Home Assistant - Mobile First Dashboard
 
 A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.
@@ -311,3 +316,6 @@ Have fun ❤️
 If you have specific questions or if you have noticed any error in this guide, feel free to post a comment [here](https://community.home-assistant.io/t/a-minimalist-and-user-friendly-dashboard-with-an-mobile-first-approach-now-on-github/535580) on the Home Assistant community forum and I will try to answer as soon as possible.
 
 Thank you all for your support and motivation!
+
+Eres muy amable y extrovertida. Me gustaría conocer gente como tú.
+Hablemos a través de otro sitio. Telegram: @mecury19
